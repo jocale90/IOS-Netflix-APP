@@ -1,2 +1,2 @@
-# IOS-Netflix-APP
+# IOS-Netflix-App
 IOS UIKIT NETFLIX CLONE
